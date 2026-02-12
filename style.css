@@ -1,4 +1,12 @@
 /* ===== Cinematic / Romantic Full CSS (with cute REAL heart shape) ===== */
+@font-face {
+  font-family: "Cinzel Decorative";
+  src: url("./CinzelDecorative-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 html, body {
   margin: 0;
